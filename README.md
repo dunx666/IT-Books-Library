@@ -245,4 +245,110 @@
 | 阿里巴巴2016前端开发工程师笔试一 | [查看](https://pan.quark.cn/s/75e2a216b279) |
 | 阿里巴巴2016前端开发工程师笔试二 | [查看](https://pan.quark.cn/s/3afc8d17a30a) |
 | 阿里巴巴2016数据挖掘工程师笔试 | [查看](https://pan.quark.cn/s/ce1aabb1e17c) |
-| 阿里巴巴2015校招研发 | [查看](https://pan.quark.cn/s/04
+| 阿里巴巴2015校招研发 | [查看](https://pan.quark.cn/s/04c24b264987) |
+| 百度2015前端研发笔试卷 | [查看](https://pan.quark.cn/s/900faf727a64) |
+| 百度2015安全研发笔试卷 | [查看](https://pan.quark.cn/s/106fb4c5232e) |
+| 百度2015大数据云计算研发笔试卷 | [查看](https://pan.quark.cn/s/dc2f4a40c00e) |
+| 百度研发工程师2015深圳笔试卷 | [查看](https://pan.quark.cn/s/ad74a2ab243d) |
+| 搜狗2015JAVA工程师笔试题 | [查看](https://pan.quark.cn/s/bbb25ca48dd0) |
+| 人人网2015研发笔试卷A | [查看](https://pan.quark.cn/s/6c8132a65fe9) |
+| 人人网2015研发笔试卷E | [查看](https://pan.quark.cn/s/abc63e4e6123) |
+| 程序员面试金典 | [查看](https://pan.quark.cn/s/b276a284fe87) |
+| 程序员面试宝典 | [查看](https://pan.quark.cn/s/92aa431fe265) |
+| 剑指offer名企面试官精讲典型编程题 | [查看](https://pan.quark.cn/s/2e1164c8b4a5) |
+| 剑指OFFER  名企面试官精讲典型编程题  第2版 | [查看](https://pan.quark.cn/s/ddab4d046043) |
+| 《带你快速刷完67道剑指offer》 by 阿秀 | [查看](https://pan.quark.cn/s/fa66edce2ec6) |
+| 《阿秀的学习笔记》第四版By阿秀 | [查看](https://pan.quark.cn/s/60a43b6690de) |
+| 校招C++岗位求职分享直播PPT | [查看](https://pan.quark.cn/s/306ce0d73385) |
+| 牛客网Java工程师校招面试题库 | [查看](https://pan.quark.cn/s/aca056cfdbdf) |
+| 腾讯、阿里、字节等一二线互联网校招面经合集 | [查看](https://pan.quark.cn/s/f64fe833c07e) |
+| Java面试突击-V3.0 | [查看](https://pan.quark.cn/s/16ea31b0f46d) |
+| Java面试突击-V2.0 | [查看](https://pan.quark.cn/s/bb5b2f51ec9f) |
+| Java面试突击-V1.0 | [查看](https://pan.quark.cn/s/74610b058247) |
+
+## 🧮 数学与统计
+
+| 书名 | 链接 |
+|------|------|
+| 统计学习方法-李航 | [查看](https://pan.quark.cn/s/6d59c644a6c4) |
+| 概率论与数理统计 - 陈希孺 | [查看](https://pan.quark.cn/s/8c620a27ddfc) |
+| 概率论与数理统计同济大学 | [查看](https://pan.quark.cn/s/388c9f73635e) |
+| 概率论及其应用(第2卷) | [查看](https://pan.quark.cn/s/9469bf366001) |
+| 概率论及其应用 第三版 | [查看](https://pan.quark.cn/s/245b51a57a4e) |
+| 统计学个人笔记 | [查看](https://pan.quark.cn/s/accffcda8160) |
+| 量化研究与统计分析-SPSS | [查看](https://pan.quark.cn/s/acca1e107d1a) |
+| 量化研究手册：数据分析 | [查看](https://pan.quark.cn/s/20525a122a09) |
+| 线性回归分析基础 | [查看](https://pan.quark.cn/s/7aec8e261c52) |
+| 非线性回归分析及其应用 | [查看](https://pan.quark.cn/s/69cc4fda2adf) |
+| 贝叶斯思维统计建模的Python学习法 | [查看](https://pan.quark.cn/s/4264c5513484) |
+| 数学之美 | [查看](https://pan.quark.cn/s/af7faabc7a65) |
+| 数学：确定性的丧失 | [查看](https://pan.quark.cn/s/f9a0a6789587) |
+| 什么是数学 中文版 | [查看](https://pan.quark.cn/s/2737b7365fea) |
+| 高等微积分.卢米斯 | [查看](https://pan.quark.cn/s/4a3f9ed8498b) |
+| 同济线性代数教材 | [查看](https://pan.quark.cn/s/36c2358f86b7) |
+| 同济线性代数第五版 | [查看](https://pan.quark.cn/s/449168604b04) |
+| 同济高等数学第六版上下册 | [查看](https://pan.quark.cn/s/c066a03a2c1f) |
+| 数学：它的内容、方法和意义（全三卷） | [查看](https://pan.quark.cn/s/d686da63cd73) |
+| 程序员的数学1_清晰版 | [查看](https://pan.quark.cn/s/785ed558e89f) |
+| 程序员的数学2-概率统计 | [查看](https://pan.quark.cn/s/e7f153d42d4a) |
+| 程序员的数学3-线性代数 | [查看](https://pan.quark.cn/s/ac22d76d694c) |
+
+## 🛠️ 其他实用资源
+
+| 书名 | 链接 |
+|------|------|
+| 快乐的Linux命令行 | [查看](https://pan.quark.cn/s/5e3c39613814) |
+| Linux命令详解词典 | [查看](https://pan.quark.cn/s/262a9cf02f90) |
+| Linux常用命令大全 | [查看](https://pan.quark.cn/s/238ea2d2783d) |
+| 汇编语言(第3版）- 王爽_清晰PDF | [查看](https://pan.quark.cn/s/b3f6f6a8f0f7) |
+| x86汇编语言-从实模式到保护模式 | [查看](https://pan.quark.cn/s/4bd85d0567aa) |
+| x86汇编语言  从实模式到保护模式完整版 | [查看](https://pan.quark.cn/s/9430ac841fd0) |
+| 汇编语言基于linux环境第3版 | [查看](https://pan.quark.cn/s/1d948e8b0e68) |
+| 《加密与解密（第4版）》 | [查看](https://pan.quark.cn/s/8650ba846cb0) |
+| 逆向工程核心原理 | [查看](https://pan.quark.cn/s/c664434696e0) |
+| 老"码"识途 从机器码到框架的系统观逆向修炼之路 | [查看](https://pan.quark.cn/s/dd9c5826281d) |
+| 老码识途 从机器码到框架的系统观逆向修炼之路 | [查看](https://pan.quark.cn/s/5b4821b85ac9) |
+| 黑客就这么几招第二版 | [查看](https://pan.quark.cn/s/c6d810b81216) |
+| 黑客与画家 | [查看](https://pan.quark.cn/s/5348ad3abe79) |
+| 网络是怎样连接的 | [查看](https://pan.quark.cn/s/13bb0d3a5713) |
+| Wireshark数据包分析实战 | [查看](https://pan.quark.cn/s/8f716f384f66) |
+| Wireshark网络分析的艺术 | [查看](https://pan.quark.cn/s/0d4fb7e257de) |
+| 程序员健康指南 | [查看](https://pan.quark.cn/s/cf1e14177740) |
+| 如何阅读一本书 | [查看](https://pan.quark.cn/s/eb4a6cd09f87) |
+| 人月神话-中文-目录-文字版 | [查看](https://pan.quark.cn/s/0be4a971bd22) |
+| 浪潮之巅（完整版） | [查看](https://pan.quark.cn/s/2ac81030e144) |
+| 哈佛给学生在做的382个思维游戏 | [查看](https://pan.quark.cn/s/95b7ca4a7358) |
+| 程序员的算法趣题 | [查看](https://pan.quark.cn/s/c69142e0a26c) |
+| 从 0 开始学习 GitHub 系列 | [查看](https://pan.quark.cn/s/4d486c83d187) |
+| 《码农翻身：用故事给技术加点料》_刘欣 | [查看](https://pan.quark.cn/s/e4612b35e32c) |
+
+---
+
+## 📌 温馨提示
+
+1. **尊重版权**：本资源仅用于学习交流，请在下载后24小时内删除，支持正版
+2. **持续更新**：我会定期更新和补充新的优质资源
+3. **资源备份**：建议下载后做好本地备份，以防链接失效
+4. **分享有礼**：欢迎分享给需要的朋友，让更多人受益
+5. **反馈建议**：如有问题或需要特定资源，请在评论区留言
+
+> "优秀的程序员不是知识的囤积者，而是知识的运用者。希望这些资源能帮助你成为更好的开发者！"
+
+---
+
+## 🔗 相关推荐
+
+- [GitHub 技术书籍汇总](https://github.com/521xueweihan/HelloGitHub)
+- [程序员必读书单](https://github.com/xirong/my-programming-book)
+- [Awesome CS Books](https://github.com/vhf/free-programming-books)
+
+---
+
+**最后更新日期：2023年10月**  
+**整理者：技术资源分享社区**  
+**声明：本资源收集于互联网，仅供个人学习使用，请支持正版书籍**
+
+![学习永无止境](https://images.unsplash.com/photo-1503676260728-1c00da4913bb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80)
+
+> **学习永无止境，分享创造价值**  
+> 如果你觉得这份资源对你有帮助，请分享给更多需要的朋友！
